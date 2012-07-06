@@ -1,0 +1,12 @@
+WinSeek = -32, 90, 604, 647, C, -2, 145, 732, 715, C
+Apariencia = -20, 340, 735, 530, C
+FileSize = -33, 23, 675, 479, C
+MakeClean = 92, 114, 644, 570, 
+Mnu_Module = 92, 92, 644, 548, C
+Desinfeccion = 3, 22, 696, 609, C
+About = 75, 280, 652, 617, C, 25, 37, 607, 652, C
+RegQuery = 4, 66, 668, 522, C
+ObtenerSizeyFecha = 13, 77, 565, 527, C
+NotifyIcon = 23, 23, 745, 606, C
+Driver = 25, 105, 555, 545, C
+loading = 115, 115, 663, 571, C, 115, 119, 663, 575, C
